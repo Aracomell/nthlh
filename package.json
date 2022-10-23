@@ -1,10 +1,12 @@
 {
-    "name": "wh-mods-dev",
+    "name": "Elaina-BOT",
     "version": "3.1.0",
-    "description": "WhatsApp BOT By wahid",
+    "description": "RPG BOT Whatsapp",
     "main": "index.js",
     "type": "module",
-    "directories": {
+   "engines": {
+    "node": "17.1.0"
+  }, 
         "lib": "lib",
         "src": "src",
         "plugins": "plugins"
