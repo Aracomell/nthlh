@@ -1,12 +1,13 @@
 {
-    "name": "Elaina-BOT",
+    "name": "Sheila-Md",
     "version": "3.1.0",
-    "description": "RPG BOT Whatsapp",
+    "description": "WhatsApp BOT By Gaara",
     "main": "index.js",
     "type": "module",
    "engines": {
     "node": "17.1.0"
   }, 
+    "directories": {
         "lib": "lib",
         "src": "src",
         "plugins": "plugins"
