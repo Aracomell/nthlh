@@ -49,32 +49,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/gal3h_jr' // ig
-global.sgh = 'https://github.com/GANZ-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/BBfnFBnsg9AD0mZSnriGyK' // group whatsapp
+global.sig = 'https://instagram.com/karfuanyogich' // ig
+global.sgh = 'https://github.com/FlawzKece/' // github
+global.sgc = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl' // group whatsapp
 global.sdc = '-'//discord
-global.snh = 'https://youtube.com/channel/UCY_rcabCcFltXQWwCQlO03A' // my youtube channel
+global.snh = 'https://youtube.com/channel/UChyvF2STzXY6cs3GeE_52mA' // my youtube channel
 global.sfb = '-' // facebook
 global.syt = '-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '085664221805' //dana
-global.povo = '085664221805' //ovo
-global.pgopay = '085664221805' //gopay
-global.plinkaja = '085664221805' //link aja
-global.ppulsa = '085664221805' //indosat
+global.pdana = '089510598381' //dana
+global.povo = '089510598381' //ovo
+global.pgopay = '089510598381' //gopay
+global.plinkaja = '089510598381' //link aja
+global.ppulsa = '089510598381' //indosat
 global.ppulsa2 = '-' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.co/crisper'
+global.psaweria = 'https://saweria.co/yogzkyz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282112882744'
-global.nomorown = '6285664221805'
-global.namebot = 'GANZ-BOT-V1'
-global.nameown = 'GANZ DEV'
+global.nomorbot = '62895709711700'
+global.nomorown = '6289510598381'
+global.namebot = 'ZennX-Botz'
+global.nameown = 'Flawz'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'galehriski' // nama github lu
-global.linkgithub = 'https://github.com/galehriski' // tarok link github lu
+global.namagithub = 'FlawzKece' // nama github lu
+global.linkgithub = 'https://github.com/FlawzKece' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,8 +85,8 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285664221805', 'GANZ DEV', true],
-  ['-', 'ISI KALAU ADA', true],
+  ['6289510598381', 'Flawz 🥶', true],
+  ['6285693603298', 'Iky Slebew 🤙🏼', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 GANZ-BOT 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘GANZ-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ GANZ-BOT '
+global.wm = '                「 ZennX-Botz  あ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZennX-Botz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ZennX-Botz'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By GANZ-MODS-DEV`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 GANZ-BOT  あ」'
+global.author = '「 ZennX-Botz  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
