@@ -154,10 +154,10 @@ global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumb = 'https://telegra.ph/file/1860e660b4c9d465b49dc.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/1860e660b4c9d465b49dc.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
+global.thumbs = ['https://telegra.ph/file/1860e660b4c9d465b49dc.jpg']
 global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
 global.thumbnailUrl = [
 'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg','https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'Created By ZennX-Botz'
+global.stickauth = `Made By @Flawz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
