@@ -2,8 +2,8 @@ const cooldown = 1200
 let handler = async (m, { usedPrefix }) => {
     let user = global.db.data.users[m.sender]
     let timers = (cooldown - (new Date - user.lastmining))
-    if (user.health < 80) return m.reply(`
-Requires at least 80 ❤️Healths for the mining!!
+    if (user.health < 50) return m.reply(`
+Requires at least 50 ❤️Healths for the mining!!
 please buy ❤️Healths first by typing *${usedPrefix}buy potion <quantity>*,
 and type *${usedPrefix}heal <quantity>* to use potions
 `.trim())
@@ -39,13 +39,13 @@ export default handler
 function reward(user = {}) {
     let rewards = {
         reward: {
-            exp: 1000,
-            trash: 101,
-            string: 25,
-            rock: 30,
-            iron: 25,
-            diamond: 10,
-            emerald: 4,
+            exp: 850,
+            trash: 79,
+            string: 19,
+            rock: 25,
+            iron: 20,
+            diamond: 3,
+            emerald: 1,
             common: 2 * (user.dog && (user.dog > 2 ? 2 : user.dog) * 1.2 || 1),
             uncommon: [0, 0, 0, 1, 0].concat(
                 new Array(5 - (
