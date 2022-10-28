@@ -58,23 +58,23 @@ global.sfb = '-' // facebook
 global.syt = '-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '089510598381' //dana
-global.povo = '089510598381' //ovo
-global.pgopay = '089510598381' //gopay
-global.plinkaja = '089510598381' //link aja
-global.ppulsa = '089510598381' //indosat
-global.ppulsa2 = '-' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.co/yogzkyz'
+global.pdana = '085942139006' //dana
+global.povo = '085942139006' //ovo
+global.pgopay = '085942139006' //gopay
+global.plinkaja = '085942139006' //link aja
+global.ppulsa = '085942139006' //indosat
+global.ppulsa2 = '089504231588' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.co/araacntk6'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895709711700'
-global.nomorown = '6289510598381'
-global.namebot = 'ZennX-Botz'
-global.nameown = 'Flawz'
+global.nomorbot = '6285942139006'
+global.nomorown = '6289504231588'
+global.namebot = '𝑶𝒕𝒐𝒎𝒆𝒙𝑨𝑹'
+global.nameown = '𝒜𝓇𝒶𝒶 𝒜𝓇𝒶𝒶.'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'FlawzKece' // nama github lu
-global.linkgithub = 'https://github.com/FlawzKece' // tarok link github lu
+global.namagithub = 'Aracomell' // nama github lu
+global.linkgithub = 'https://github.com/Aracomell' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,8 +85,8 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289510598381', 'Flawz 🥶', true],
-  ['6285693603298', 'Iky Slebew 🤙🏼', true],
+  ['6289504231588', '𝒜𝓇𝒶𝒶 𝒜𝓇𝒶𝒶. 🥵', true],
+  ['6289603965135', 'AraaCntk', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ZennX-Botz  あ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZennX-Botz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ZennX-Botz'
+global.wm = '                「 𝑶𝒕𝒐𝒎𝒆𝒙𝑨𝑹  あ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝑶𝒕𝒐𝒎𝒆𝒙𝑨𝑹˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝑶𝒕𝒐𝒎𝒆𝒙𝑨𝑹'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By GANZ-MODS-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Araa-Araa`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '「 ZennX-Botz  あ」'
+global.author = '「 𝒜𝓇𝒶𝒶 𝒜𝓇𝒶𝒶.  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Created By ZennX-Botz'
-global.stickauth = `Made By @Flawz`
+global.stickpack = 'Created By 𝑶𝒕𝒐𝒎𝒆𝒙𝑨𝑹'
+global.stickauth = `Made By @𝒜𝓇𝒶𝒶 𝒜𝓇𝒶𝒶.`
 
 global.multiplier = 38 // The higher, The harder levelup
 
