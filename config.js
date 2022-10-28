@@ -62,8 +62,8 @@ global.pdana = '085942139006' //dana
 global.povo = '085942139006' //ovo
 global.pgopay = '085942139006' //gopay
 global.plinkaja = '085942139006' //link aja
-global.ppulsa = '085942139006' //indosat
-global.ppulsa2 = '089504231588' // kalau ada kartu lain isi aja
+global.ppulsa = '085942139006' //XL
+global.ppulsa2 = '089504231588' //Tri
 global.psaweria = 'https://saweria.co/araacntk6'
 
 /*============== NOMOR ==============*/
